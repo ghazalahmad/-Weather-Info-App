@@ -2,3 +2,6 @@ venv/
 pycache/
 .env
 *.pyc
+id_ed25519
+id_rsa
+*.pem
